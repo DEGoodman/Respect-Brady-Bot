@@ -102,3 +102,6 @@ ENV/
 
 #um do I need to ignore it specifically?
 praw.ini
+
+# editors
+.vscode/
