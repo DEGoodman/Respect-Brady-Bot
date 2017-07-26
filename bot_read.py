@@ -3,7 +3,7 @@ import praw
 
 reddit = praw.Reddit('bot1')
 
-subreddit = reddit.subreddit("hellointernet")
+subreddit = reddit.subreddit("pythonforengineers")
 
 for submission in subreddit.hot(limit=5):
     print("Title: ", submission.title)
