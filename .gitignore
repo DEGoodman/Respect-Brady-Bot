@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#um do I need to ignore it specifically?
+lib/praw.ini
