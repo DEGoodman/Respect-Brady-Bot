@@ -105,3 +105,6 @@ praw.ini
 
 # editors
 .vscode/
+
+# bot-specific
+posts_replied_to.txt
